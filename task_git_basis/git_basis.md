@@ -1,4 +1,5 @@
-## Трошки додаткової інформації
+## Git Basis
+# Трошки додаткової інформації
 
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 

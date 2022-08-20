@@ -1,42 +1,57 @@
 ## General
 ## 0.  [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) :white_check_mark:
  <details>
-<summary>Враження</summary>
-
->   __,,,^._.^,,,__
-
-> Сподобалися лекції від Google. Цікавим і новим було порівняння команд command line і git (diff, patch), а також рекомендації щодо написання коммітів.
+  <summary>Враження</summary>
+  
+  >   __,,,^._.^,,,__
+  
+  > Сподобалися лекції від Google. Цікавим і новим було порівняння команд command line і git (diff, patch), а також рекомендації щодо написання коммітів.
 
 </details>
 
 ## 1.  [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) :white_check_mark:
  <details>
-<summary>Враження та скрiншоти</summary>
+  <summary>Враження та скрiншоти</summary>
 
-> Сподобався курс з консольних команд, дуже наочний та добре структурований. Новим було | (планую використовувати в майбутньому) і такі команди як lpr, df і таке інше, які зараз зручніше виконувати через інтерфейс.
+  > Сподобався курс з консольних команд, дуже наочний та добре структурований. Новим було | (планую використовувати в майбутньому) і такі команди як lpr, df і таке інше, які зараз зручніше виконувати через інтерфейс.
 
-![quiz1](./task_linux_cli/screenshots/LS_quiz1.png)
-![quiz2](./task_linux_cli/screenshots/LS_quiz2.png)
-![quiz3](./task_linux_cli/screenshots/LS_quiz3.png)
-![quiz4](./task_linux_cli/screenshots/LS_quiz4.png)
+  ![quiz1](./task_linux_cli/screenshots/LS_quiz1.png)
+  ![quiz2](./task_linux_cli/screenshots/LS_quiz2.png)
+  ![quiz3](./task_linux_cli/screenshots/LS_quiz3.png)
+  ![quiz4](./task_linux_cli/screenshots/LS_quiz4.png)
 
-> Освіжила у пам'яті заголовки та статуси запитів, дізналася про ws. У разі потреби розумітиму в який бік гуглити.
+  > Освіжила у пам'яті заголовки та статуси запитів, дізналася про ws. У разі потреби розумітиму в який бік гуглити.
 </details>
 
 ## 2.  [Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) :white_check_mark:
  <details>
-<summary>Враження та скрiншоти</summary>
+  <summary>Враження та скрiншоти</summary>
 
-> Поглибила свої знання про створення та роботу з гілками у git. Краще зрозуміла як працює rebase і що відбувається при відокремлені HEAD, цікавим і новим були переходи по комітах за допомогою ^ і ~, деякі можливості додаткових аргументів для push, pull і fetch, а також cherry-pick, усе це й планую використовувати в подальшій роботі.
+  > Поглибила свої знання про створення та роботу з гілками у git. Краще зрозуміла як працює rebase і що відбувається при відокремленні HEAD, цікавим і новим були переходи по коммітах за допомогою ^ та ~, деякі можливості додаткових аргументів для push, pull і fetch, а також cherry-pick, усе це й планую використовувати в подальшій роботі.
 
-![Coursera - week 3](./task_git_collaboration/screenshots/Coursera_Git--Week_3.png)
-![Coursera - week 4](./task_git_collaboration/screenshots/Coursera_Git--Week_4.png)
-![LearnGitBranching - main](./task_git_collaboration/screenshots/LGB--Main_full.png)
-![LearnGitBranching - remote](./task_git_collaboration/screenshots/LGB--Remote_full.png)
+  ![Coursera - week 3](./task_git_collaboration/screenshots/Coursera_Git--Week_3.png)
+  ![Coursera - week 4](./task_git_collaboration/screenshots/Coursera_Git--Week_4.png)
+  ![LearnGitBranching - main](./task_git_collaboration/screenshots/LGB--Main_full.png)
+  ![LearnGitBranching - remote](./task_git_collaboration/screenshots/LGB--Remote_full.png)
 </details>
 
 # Front-End Basics
-## 3. [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md) :black_square_button:
+## 3. [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md) :white_check_mark:
+ <details>
+  <summary>Враження та скрiншоти</summary>
+
+  > Новим були  `& nbsp;` - не зустрічала його раніше, тег `<embed>` для gif, можливість робити якірні посилання за допомогою атрибута name замість id.
+
+  > Здивувала "нова" модель контенту, раніше думала, що розподілення на блокові та строкові елементи є актуальним, `:link ` для посилань.
+
+  > Планую і надалі використовувати html та css, як і завжди).
+
+  ![CodeCademy - HTML & CSS](./task_html_css_intro/screenshots/CC--HTML+CSS.png)
+  ![Coursera - week 1](./task_html_css_intro/screenshots/Coursera_HTML--Week_1.png)
+  ![Coursera - week 2](./task_html_css_intro/screenshots/Coursera_CSS--Week_2.png)
+
+</details>
+
 ## 4. [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md):black_square_button:
 ## 5. [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md) :black_square_button:
 ## 6. [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md) :black_square_button:

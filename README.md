@@ -1,5 +1,5 @@
 ## General
-## 0.  [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) :white_check_mark:
+### 0.  [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md) :white_check_mark:
  <details>
   <summary>Враження</summary>
   
@@ -9,7 +9,8 @@
 
 </details>
 
-## 1.  [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) :white_check_mark:
+---
+### 1.  [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md) :white_check_mark:
  <details>
   <summary>Враження та скрiншоти</summary>
 
@@ -23,7 +24,8 @@
   > Освіжила у пам'яті заголовки та статуси запитів, дізналася про ws. У разі потреби розумітиму в який бік гуглити.
 </details>
 
-## 2.  [Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) :white_check_mark:
+---
+### 2.  [Git Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md) :white_check_mark:
  <details>
   <summary>Враження та скрiншоти</summary>
 
@@ -35,8 +37,11 @@
   ![LearnGitBranching - remote](./task_git_collaboration/screenshots/LGB--Remote_full.png)
 </details>
 
+---
+---
 # Front-End Basics
-## 3. [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md) :white_check_mark:
+
+### 3. [Intro to HTML and CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md) :white_check_mark:
  <details>
   <summary>Враження та скрiншоти</summary>
 
@@ -52,7 +57,23 @@
 
 </details>
 
-## 4. [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md):black_square_button:
-## 5. [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md) :black_square_button:
-## 6. [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md) :black_square_button:
-## 7. [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) - practice :black_square_button:
+---
+### 4. [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md):white_check_mark:
+
+ <details>
+  <summary>Враження та скрiншоти</summary>
+
+> Новим було:  `@media (hover)` та `@media (pointer)`, розмір ідеального стовбця тексту у 70-80 знаків. Не зовсім новим, але добре забутим був grid, до якого раніше лише придивлялася.
+
+> Здивувало: можливість перевірки viewport за допомогою Lighthouse - не помічала раніше.
+
+> Планую і надалі використовувати flex, а також більше використовувати grid там, де це буде доречно.
+
+![Flexbox Froggy](./task_responsive_web_design/screenshots/Game--Flexbox_Froggy.png)
+![Grid Garden](./task_responsive_web_design/screenshots/Game--Grid_Garden.png)
+</details>
+
+---
+### 5. [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)  ◻
+### 6. [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)  ◻
+### 7. [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) - practice  ◻
